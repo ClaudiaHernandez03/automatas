@@ -15,10 +15,10 @@ Esta expresión regular reconoce la expresión "buenos días" en español, con l
 
 buenas\stardes
 Esta expresión regular identifica la expresión "buenas tardes" en español, asegurando que la detección sea insensible a mayúsculas y minúsculas.
-![Evidencia](https://github.com/ClaudiaHernandez03/automatas/blob/main/Tema%202/Tarea%202.2/img/Imagen%203.jpg)
+![Evidencia](https://github.com/ClaudiaHernandez03/automatas/blob/main/Tema%202/Tarea%202.2/img/imegen%203.jpg)
 ## Expresión Regular para "Buenas Noches"
 
 
 buenas\sn[oó]ches
 Esta expresión regular detecta la expresión "buenas noches" en español, con la opción de la letra "o" con o sin acento, permitiendo la detección insensible a mayúsculas y minúsculas.
-![Evidencia](https://github.com/ClaudiaHernandez03/automatas/blob/main/Tema%202/Tarea%202.2/img/Imagen%204.jpg)
+![Evidencia](https://github.com/ClaudiaHernandez03/automatas/blob/main/Tema%202/Tarea%202.2/img/imagen%204.jpg)
