@@ -17,7 +17,7 @@ Para los siguientes ejercicios, construya el diagrama de transición del AFD que
 ## e) El lenguaje donde toda cadena contiene la subcadena 'baba':
 ![imagen](https://github.com/ClaudiaHernandez03/automatas/blob/main/IMG/E.png)
 ## f) El lenguaje donde toda cadena contiene por separado a las cadenas 'ab' y 'ba':
-![imagen](https://github.com/ClaudiaHernandez03/automatas/blob/main/IMG/F.jpeg)
+![imagen](https://github.com/ClaudiaHernandez03/automatas/blob/main/IMG/F.jpg)
 ## g) Toda cadena es de longitud impar y contiene una cantidad par de 'a's:
 ![imagen](https://github.com/ClaudiaHernandez03/automatas/blob/main/IMG/G.png)
 
