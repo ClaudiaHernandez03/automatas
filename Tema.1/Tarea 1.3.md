@@ -1,0 +1,6 @@
+![Imagen](https://github.com/ClaudiaHernandez03/automatas/blob/main/IMG/Linea%20del%20tiempo%201.png)
+![Imagen](https://github.com/ClaudiaHernandez03/automatas/blob/main/IMG/Linea%20del%20tiempo%202.png)
+![Imagen](https://github.com/ClaudiaHernandez03/automatas/blob/main/IMG/Linea%20del%20tiempo%203.png)
+![Imagen](https://github.com/ClaudiaHernandez03/automatas/blob/main/IMG/Linea%20del%20tiempo%204.png)
+![Imagen](https://github.com/ClaudiaHernandez03/automatas/blob/main/IMG/Linea%20del%20tiempo%205.png)
+![Imagen](https://github.com/ClaudiaHernandez03/automatas/blob/main/IMG/Linea%20del%20tiempo%206.png)
